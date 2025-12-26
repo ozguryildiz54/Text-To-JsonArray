@@ -1,2 +1,1 @@
-# textFileToJsonArrayFile
-Text dosyası içinde ki verileri Json dizisine dönüştürür.
+A utility tool designed to parse raw data from text files and transform it into structured JSON arrays. This project focuses on file I/O operations, string parsing logic, and data serialization, making it easier to migrate legacy text data into modern web-friendly formats.
